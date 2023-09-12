@@ -1,0 +1,30 @@
+Body{
+    background-color: aquamarine;
+
+}
+
+h1{
+    font-size: 3rem;
+    text-transform:uppercase;
+}
+
+.poster{
+    width:50%;
+    margin-left:25%;
+    margin-top:100px;
+    color:blue;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+img{
+    border: 10px solid black;
+    width: 100%;
+    
+}
+
+p{
+    text-shadow: 0cqh;
+    color:green;
+
+}
